@@ -13,7 +13,7 @@ Link to our Presentation: https://docs.google.com/presentation/d/1rth0ffRiQ-DXsp
 - Matplotlib
 - sklearn
 
-### Oveview
+### Overview
 
 This is a End-to-End model to learn the modulation of the messages so that we can achive no-loss singal at the receiver side.
 
